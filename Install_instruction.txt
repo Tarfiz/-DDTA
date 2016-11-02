@@ -31,7 +31,7 @@ for z/OS.
 2.0  INSTALLING THE LIBRARY PACKAGE
 ---------------------------------------------
 
-IFIT is a Library package shipped in XMIT Library file format.
+DDTA is a Library package shipped in XMIT Library file format.
 
 The following steps are required to install IFIT Library:
 
@@ -57,7 +57,7 @@ The following steps are required to install IFIT Library:
   (4.) In z/OS server allocate two new libraries CNTLLIB e DEADLIB using the  
        same library prefix
 
-        * CNTLLIB (RECFM=FB LRECL=80  BLKSIZE=3120 - PDS o PDSE)
+        * CNTLLIB (RECFM=FB LRECL=80  BLKSIZE=3120 - PDS or PDSE)
         * DEADLIB (RECFM=FB LRECL=250 BLKSIZE=0 . PDSE)
        
        The two libraries contain control files e deadlock report files
