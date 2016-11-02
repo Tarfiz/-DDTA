@@ -58,7 +58,7 @@ The following steps are required to install IFIT Library:
        same library prefix
 
         * CNTLLIB (RECFM=FB LRECL=80  BLKSIZE=3120 - PDS or PDSE)
-        * DEADLIB (RECFM=FB LRECL=250 BLKSIZE=0 . PDSE)
+        * DEADLIB (RECFM=FB LRECL=250 BLKSIZE=0 - PDSE)
        
        The two libraries contain control files e deadlock report files
        
