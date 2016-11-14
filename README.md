@@ -7,4 +7,6 @@ Obtain a report for each DB2 in a z/OS partition that you can see in "Deadlock_R
                                                                                                                              
 Refer to "Install_instuction.txt" for installation instructions instead.
 
+Refer to file "DDTA - DB2 Deadlock Timeout Analysis.pdf" for a presentation of the tool and useability.
+
 Salvatore Mancini (DB2 & Big Data expertise)
