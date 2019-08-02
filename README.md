@@ -1,5 +1,5 @@
 # -DDTA Repository
-# DB2 Deadlock/Timeout Analisys Tool for z/OS Ver. 1.0.0
+# DB2 Deadlock/Timeout Analysis Tool for z/OS Ver. 1.0.0
 
 Perform analysis about Deadlock/Timeout situation occurred in a DB2 Subsystem without using any commercial monitor (Omegamon, CA Insigth, etc.)
 
